@@ -2,15 +2,7 @@ import os
 
 x = 1
 
-if x == None:
-    print(undefined_name)import os
+if x == 1:
+    print(undefined_name)
 
-x = 1
-
-if x == None:
-    print(undefined_name)import os
-import sys
-
-x=1+2
-
-print("hello")
+print("hello" % ())
