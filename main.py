@@ -1,8 +1,6 @@
-import os
+def main():
+    print("Hello from dsc190-github-actions!")
 
-x = 1
 
-if x == 1:
-    print(undefined_name)
-
-print("hello" % ())
+if __name__ == "__main__":
+    main()
